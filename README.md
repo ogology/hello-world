@@ -1,4 +1,4 @@
-# hello-world
+# SCHOOL MANAGEMENT SYSTEM
 it me prince
 Leaning how to use GitHub Repository
 
